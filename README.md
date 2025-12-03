@@ -10,7 +10,7 @@ GRU
 ![output](gru_output.png)
 ![output](gru_output2.png)
 
-### Source code is provided for reference only. 
+### Source code is provided for reference only.
 
 ### Setup
 
