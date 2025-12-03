@@ -3,12 +3,13 @@
 This is a follow-up project to Market.AI https://github.com/cyruslauwork/market.ai
 
 Experimental screenshots during development:
-ANN
-![output](ann_output.png)
-![output](ann_output2.png)
-GRU
-![output](gru_output.png)
-![output](gru_output2.png)
+
+- ANN
+  ![output](ann_output.png)
+  ![output](ann_output2.png)
+- GRU
+  ![output](gru_output.png)
+  ![output](gru_output2.png)
 
 ### Source code is provided for reference only.
 
