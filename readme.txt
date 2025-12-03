@@ -1,0 +1,11 @@
+DL Miniconda3-latest-MacOSX-arm64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+After installation, you may need to restart your terminal or run source ~/.bashrc to activate the conda command.
+conda update conda
+conda create -n myenv python=3.11
+conda activate myenv
+pip install pandas numpy requests matplotlib
+pip install -U scikit-learn
+pip install torch torchvision torchaudio
+
+Exit conda env: conda deactivate
